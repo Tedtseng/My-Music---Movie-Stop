@@ -1,6 +1,6 @@
 M&M Stop User's Manul
 =====================
-#Created a website to post your music video and add comments ; with Shopping Cart and Online Multi-User Chat room
+>Created a website to post your music video and add comments ; with Shopping Cart and Online Multi-User Chat room
 ![github](https://github.com/Tedtseng/My-Music-and-Movie-Stop/blob/master/pic/00.png "00")
 
 ###Step1.<br />

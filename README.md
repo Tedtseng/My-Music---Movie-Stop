@@ -36,7 +36,7 @@ M&M Stop User's Manul
 >![github](https://github.com/Tedtseng/My-Music-and-Movie-Stop/blob/master/pic/05.png "05")
 >
         
->### Step4.<br/> 
+### Step4.<br/> 
 >open browser, the link is " http://localhost/cs601_final_Lin-Kei Tseng/index.html"
 >The Home page will be show up, for example:
 >![github](https://github.com/Tedtseng/My-Music-and-Movie-Stop/blob/master/pic/06.png "06")

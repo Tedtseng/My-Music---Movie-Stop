@@ -4,7 +4,7 @@ M&M Stop User's Manul
 ###Step1.<br />
 1.Download "XAMPP": [https://www.apachefriends.org/download.html](https://www.apachefriends.org/download.html)<br />
 2.Open XAMPP, start "Apache" and "MySQL"<br />
-![github](https://github.com/Tedtseng/My-Music-and-Movie-Stop/blob/master/01.png "01") 
+![github](https://github.com/Tedtseng/My-Music-and-Movie-Stop/blob/master/pic/01.png "01") 
 3.Open browser typing "localhost", go into "phpMyAdmin"
         http://localhost/dashboard/
         Then, create new database name is " cs601finaldb "

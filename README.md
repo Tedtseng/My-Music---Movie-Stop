@@ -4,6 +4,8 @@ M&M Stop User's Manul
 ![github](https://github.com/Tedtseng/My-Music-and-Movie-Stop/blob/master/pic/00.png "00")
 ![github](https://github.com/Tedtseng/My-Music-and-Movie-Stop/blob/master/pic/00.1.png "00.1")
 ![github](https://github.com/Tedtseng/My-Music-and-Movie-Stop/blob/master/pic/00.2.png "00.2")
+![github](https://github.com/Tedtseng/My-Music-and-Movie-Stop/blob/master/pic/00.3.png "00.3")
+
 ###Step1.<br />
 >1.Download "XAMPP": [https://www.apachefriends.org/download.html](https://www.apachefriends.org/download.html)<br />
 >
@@ -11,11 +13,11 @@ M&M Stop User's Manul
 >
 >![github](https://github.com/Tedtseng/My-Music-and-Movie-Stop/blob/master/pic/01.png "01") 
 >
->3.Open browser typing "localhost", go into "phpMyAdmin"<br/>
->        http://localhost/dashboard/<br/>
+>3.Open browser typing "localhost", go into "phpMyAdmin"
+>        http://localhost/dashboard/
 >
-        
-4.Then, create new database name is " cs601finaldb "<br/>
+>        
+>4.Then, create new database name is " cs601finaldb "<br/>
 
 ### Step2.<br/>
 >Import Database : cs601finaldb.sql

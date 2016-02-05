@@ -1,7 +1,7 @@
 M&M Stop User's Manul
 =====================
 
-### Step1.<br />
+###Step1.<br />
         1.download "XAMPP"[https://www.apachefriends.org/download.html](https://www.apachefriends.org/download.html)<br />
         open XAMPP, start "Apache" and "MySQL"
         open browser typing "localhost", go into "phpMyAdmin"

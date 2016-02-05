@@ -5,6 +5,8 @@ M&M Stop User's Manul
 ![github](https://github.com/Tedtseng/My-Music-and-Movie-Stop/blob/master/pic/00.1.png "00.1")
 ![github](https://github.com/Tedtseng/My-Music-and-Movie-Stop/blob/master/pic/00.2.png "00.2")
 ![github](https://github.com/Tedtseng/My-Music-and-Movie-Stop/blob/master/pic/00.3.png "00.3")
+###Website Design        
+>![github](https://github.com/Tedtseng/My-Music-and-Movie-Stop/blob/master/pic/07.png "07")
 
 ###Step1.<br />
 >1.Download "XAMPP": [https://www.apachefriends.org/download.html](https://www.apachefriends.org/download.html)<br />
@@ -48,4 +50,4 @@ M&M Stop User's Manul
 >
 >![github](https://github.com/Tedtseng/My-Music-and-Movie-Stop/blob/master/pic/06.png "06")
 >
-        
+

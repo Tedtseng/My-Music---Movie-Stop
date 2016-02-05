@@ -25,8 +25,8 @@ M&M Stop User's Manul
 
 ### Step2.<br/>
 >Import Database : cs601finaldb.sql
->1.create database name is " cs601finaldb "
->2.import the file named is " cs601finaldb.sql"
+> 1.create database name is " cs601finaldb "
+> 2.import the file named is " cs601finaldb.sql"
 >![github](https://github.com/Tedtseng/My-Music-and-Movie-Stop/blob/master/pic/04.png "04") 
 >
 

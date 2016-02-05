@@ -3,19 +3,19 @@ Web Application Development_Projrct | Fall 2015
 
 M&M Stop User's Manul
 
-step1.
+Step1.
         download "XAMPP": https://www.apachefriends.org/download.html
         open XAMPP, start "Apache" and "MySQL"
         open browser typing "localhost", go into "phpMyAdmin"
         http://localhost/dashboard/
         Then, create new database name is " cs601finaldb "
 
-step2. 
+Step2. 
         Import Database : cs601finaldb.sql
         1.create database name is " cs601finaldb "
         2.import the file named is " cs601finaldb.sql"
 
-step3.
+Step3.
         Put this folder " cs601_final_Lin-Kei Tseng " into local server folder" C:\xampp\htdocs\... "
         ex: the link is " C:\xampp\htdocs\cs601_final_Lin-Kei Tseng ",after you put into local server space.
         

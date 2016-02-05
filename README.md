@@ -1,5 +1,6 @@
 M&M Stop User's Manul
 =====================
+#Created a website to post your music video and add comments ; with Shopping Cart and Online Multi-User Chat room
 ![github](https://github.com/Tedtseng/My-Music-and-Movie-Stop/blob/master/pic/00.png "00")
 
 ###Step1.<br />
@@ -13,7 +14,7 @@ M&M Stop User's Manul
 >        http://localhost/dashboard/<br/>
 >
         
->4.Then, create new database name is " cs601finaldb "<br/>
+4.Then, create new database name is " cs601finaldb "<br/>
 
 ### Step2.<br/>
 >Import Database : cs601finaldb.sql

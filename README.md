@@ -8,16 +8,16 @@ M&M Stop User's Manul
 >
 >![github](https://github.com/Tedtseng/My-Music-and-Movie-Stop/blob/master/pic/01.png "01") 
 >
-3.Open browser typing "localhost", go into "phpMyAdmin"<br/>
-        http://localhost/dashboard/<br/>
-<br/>
+>3.Open browser typing "localhost", go into "phpMyAdmin"<br/>
+>        http://localhost/dashboard/<br/>
+>
         
-4.Then, create new database name is " cs601finaldb "<br/>
+>4.Then, create new database name is " cs601finaldb "<br/>
 
 ### Step2.<br/>
-        Import Database : cs601finaldb.sql
-        1.create database name is " cs601finaldb "
-        2.import the file named is " cs601finaldb.sql"
+>        Import Database : cs601finaldb.sql
+>        1.create database name is " cs601finaldb "
+>        2.import the file named is " cs601finaldb.sql"
 
 ### Step3.<br/>
         Put this folder " cs601_final_Lin-Kei Tseng " into local server folder" C:\xampp\htdocs\... "

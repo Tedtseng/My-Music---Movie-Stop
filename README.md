@@ -44,9 +44,9 @@ M&M Stop User's Manul
 >
         
 ### Step4.<br/> 
->open browser, the link is " http://localhost/cs601_final_Lin-Kei Tseng/index.html"
+>Open browser, the link is " http://localhost/cs601_final_Lin-Kei Tseng/index.html"
 >
->The Home page will be show up, for example:
+>The Home page will be shown up, for example:
 >
 >![github](https://github.com/Tedtseng/My-Music-and-Movie-Stop/blob/master/pic/06.png "06")
 >

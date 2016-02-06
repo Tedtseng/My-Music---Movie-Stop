@@ -1,6 +1,8 @@
 M&M Stop User's Manul
 =====================
->Created a website to post your music video and add comments with Shopping Cart.
+>
+>               Created a website to post your music video and add comments with Shopping Cart.
+>
 ![github](https://github.com/Tedtseng/My-Music-and-Movie-Stop/blob/master/pic/00.png "00")
 ![github](https://github.com/Tedtseng/My-Music-and-Movie-Stop/blob/master/pic/00.1.png "00.1")
 ![github](https://github.com/Tedtseng/My-Music-and-Movie-Stop/blob/master/pic/00.2.png "00.2")

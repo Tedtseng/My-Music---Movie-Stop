@@ -8,6 +8,7 @@
 >//index_logged.html + dbcontroller.php + ajax_action.php (Show shopping cart) 
 
      
+     
 
 >http://localhost/CS601/cs601finalV2/index.html
 >
